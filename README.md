@@ -1,11 +1,11 @@
-Team Name - SDLC
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/56843de2-3c52-4777-8500-a6f8264d5b70" />Team Name - SDLC
 
 Team Members-
 1) Shresth Singh
 2) Bhaskar Kumar 
 3) Dhruv Dhull
 4) Aryan Patil
-5) Arihant
+5) Arihant kurlikar
 
 
 # CitySync: Intelligent Urban Protocol & Community Grid
@@ -70,7 +70,7 @@ CitySync/
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/SparshGupta78/CitySync.git
+   git clone https://github.com/bhaskar-025/urban_link.git
    ```
 
 2. **Backend Setup**:
