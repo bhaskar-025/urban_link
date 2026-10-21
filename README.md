@@ -1,4 +1,4 @@
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/56843de2-3c52-4777-8500-a6f8264d5b70" />Team Name - SDLC
+Team Name - SDLC
 
 Team Members-
 1) Shresth Singh
